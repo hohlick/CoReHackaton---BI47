@@ -27,5 +27,4 @@
 ## Пример BI-системы в облаке
 https://app.powerbi.com/view?r=eyJrIjoiYmE0ZTE4YzYtNGYzNC00OTJmLThhNDEtZGY0Y2NiM2JjMWUzIiwidCI6ImIyZTVmYWU2LTNlNmQtNDYxOS1iODlhLTcxZDVhYzhkODhlYiIsImMiOjl9
 ## Файл PBIX для скачивания
-Ссылка
-
+[Ссылка](https://github.com/hohlick/CoReHackaton---BI47/releases/download/0.1/BI47-P.pbix)
